@@ -1,1 +1,1 @@
-# galeria-de-v-deos
+# galeria-de-videos
